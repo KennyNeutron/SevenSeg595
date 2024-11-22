@@ -1,0 +1,5 @@
+{
+    "port": "COM3",
+    "board": "arduino:avr:uno",
+    "sketch": "example\\Count_OneDigit\\Count_OneDigit.ino"
+}

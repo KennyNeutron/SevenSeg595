@@ -1,0 +1,24 @@
+#######################################
+# Syntax Coloring Map For SevenSeg595
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+SevenSeg595	KEYWORD1
+SevenSeg    KEYWORD1
+SS595       KEYWORD1
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+ssCA            KEYWORD2
+ssCC            KEYWORD2
+OneDigit        KEYWORD2
+UpdateDisplay   KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################

@@ -1,4 +1,6 @@
-#define ledPin 13
+#include "SevenSeg595.h"
+
+SevenSeg595 ss;
 
 
 void setup() {
